@@ -67,5 +67,32 @@ It is assumed that the training model does not have questions categorized accord
 - [ ] Evaluate if it is possible to implement a search motor to speed up the process of searching for questions.
 - [ ] Analyze possible improvements to the process
 
+**REQUIREMENTS:**
 
+**REQ_02:**
 
+**As** AI developer
+
+**I want** categorize training questions according to predefined topics
+
+**To** structure the learning process in a better way and increase the accuracy of the model
+
+- **_Task2_01:_** Define a clear and structured list of topics to categorize questions.
+
+- **_Task2_02:_** Ensure that the model classifies questions correctly
+
+- **_Task2_03:_** Implement a system that identifies and classifies questions automatically
+
+**REQ_03:**
+
+**As** AI developer
+
+**I want** to store questions by category
+
+**To** optimize the search for relevant questions by each category
+
+- **_Task3_01:_** Implement a system that organizes and stores the questions in a searchable and efficient way.
+
+- **_Task3_02:_** Integrate a search motor according to the category of each question.
+
+- **_Task3_03:_** Develop a graphical interface to efficiently search questions by category.
