@@ -96,3 +96,30 @@ It is assumed that the training model does not have questions categorized accord
 - **_Task3_02:_** Integrate a search motor according to the category of each question.
 
 - **_Task3_03:_** Develop a graphical interface to efficiently search questions by category.
+
+
+### 3. Ensure that the data used is “balanced”
+
+**ASSUMPTION:**
+
+It is assumed that there is no system to identify if there is any bias or “unbalance” in the data used for training.
+
+**VALIDATIONS (QUESTIONS):**
+
+-	How do you perform mass data collection?
+-	Do you currently have a system for identifying and depuration of the data?
+-	Have you identified any technical challenges when using web scraping? Describe.
+-	How do you currently handle the process of frequent data updates? Does it require additional infrastructure?
+-	Have you faced any security risks due to the use of web scraping? Explain.
+-	What kind of biases are considered most critical?
+-	Which biases can be omitted and under which criteria?
+-	Have you tried to implement a system that identifies and classifies data biases according to their impact? If so, how did you do it and what was the result?
+
+**PRELIMINARY TASKS:**
+- [ ] Gather information about how data is collected using web scraping.
+- [ ] Review the flow of action in case a bias materializes.
+- [ ] Identify security risks that developers may face.
+- [ ] Determine the quality and accuracy of the data, identify how the debugging and validation process is performed.
+- [ ] Analyze the technical challenges that may arise during data collection.
+- [ ] Generate a report with indicators of biased data and a response plan.
+- [ ] Evaluate the use of different techniques for data collection.
