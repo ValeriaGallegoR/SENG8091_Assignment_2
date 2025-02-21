@@ -31,11 +31,41 @@ Assume that the training model does not currently have a separate question and a
 **REQ_01:** 
 
 **As** AI developer
+
 **I want** separate training questions from answers
+
 **To** facilitate the ability to evaluate and validate knowledge thus identifying areas for improvement.
+
 
 - **_Task1_01:_** Define a format for storing data organized in such a way that questions and answers are separated.
 
 - **_Task1_02:_** Establish a mechanism to link the questions with the correct answers.
 
 - **_Task1_03:_** Develop a graphical interface to manage the questions and answers
+
+
+### 2. Categorize questions
+
+**ASSUMPTION:**
+
+It is assumed that the training model does not have questions categorized according to predefined topics. 
+
+**VALIDATIONS (QUESTIONS):**
+
+- How are the questions currently organized? Under what criteria?
+-	Do you have categories and/or subcategories to classify the questions?
+-	Based on the history of questions, what are the most common topics?
+-	Have you previously tried to implement categorization of questions? If so, how did you do it and what was the result?
+
+**PRELIMINARY TASKS:**
+- [ ] Gather information about how the questions are currently classified.
+- [ ] Define which are the most relevant topics among the questions asked.
+- [ ] Based on the relevant topics, determine the categories and/or subcategories to classify the questions.
+- [ ] Implement a system for automatic and manual categorization of questions.
+- [ ] Determine the storage format of the questions according to the category and/or subcategory to which they belong.
+- [ ] Integrate the categories into the training model.
+- [ ] Evaluate if it is possible to implement a search motor to speed up the process of searching for questions.
+- [ ] Analyze possible improvements to the process
+
+
+
