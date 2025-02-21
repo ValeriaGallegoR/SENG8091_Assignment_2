@@ -47,3 +47,17 @@
 **To** ensure that there is no performance degradation in the system
 
 - **_Task4_01:_** Perform stress and performance tests.
+
+### 3. Confidentiality
+   
+**REQ_05:**
+
+**As** IA developer
+
+**I want** the data to be protected from unauthorized access and modification
+
+**To** prevent data hacking and maintain data integrity
+
+- **_Task5_01:_** Encrypt sensitive data.
+  
+- **_Task5_02:_** Identify potential security vulnerabilities and make an action plan to follow.
