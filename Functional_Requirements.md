@@ -123,3 +123,45 @@ It is assumed that there is no system to identify if there is any bias or “unb
 - [ ] Analyze the technical challenges that may arise during data collection.
 - [ ] Generate a report with indicators of biased data and a response plan.
 - [ ] Evaluate the use of different techniques for data collection.
+
+**REQUIREMENTS:**
+
+**REQ_04:**
+
+**As** AI developer
+
+**I want** Investigate the data used to train the model to identify possible unbalanced or biased data
+
+**To** ensure that the model is accurate and optimal
+
+- **_Task4_01:_** Investigate and establish a list of possible biases in the data used.
+  
+- **_Task4_02:_** Define metrics to determine acceptable biases.
+  
+- **_Task4_03:_** Create notifications when a relevant amount of bias is detected in the data.
+
+**REQ_05:**
+
+**As** AI developer
+
+**I want** to obtain a report with indicators of bias in the data used
+
+**To** assess the accuracy and quality of the data used
+
+- **_Task5_01:_** Define acceptance criteria for biased data.
+  
+- **_Task5_02:_** Implement tools to measure data bias.
+  
+- **_Task5_03:_** Generate a detailed report of bias metrics, including data quality and accuracy.
+
+**REQ_06:**
+
+**As** AI developer
+
+**I want** to identify and eliminate potentially biased data
+
+**To** prevent negatively affecting the model
+
+- **_Task6_01:_** Develop a system to mark biased data according to defined criteria.
+  
+- **_Task6_02:_** Implement a process of manual and automatic exclusion of biased data.
