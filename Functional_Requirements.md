@@ -15,3 +15,12 @@ Assume that the training model does not currently have a separate question and a
 -	What are the criteria for separating questions from answers?
 -	How to identify that the answers correspond to the questions?
 -	Have you previously tried to implement this mechanism? If so, how did you do it and what was the result?
+
+**PRELIMINARY TASKS:**
+- [ ] Gather information on how questions and answers are currently handled.
+- [ ] Identify what the criteria are for relating and/or separating a question from an answer.
+- [ ] Evaluate a mechanism for separating questions from answers correctly.
+- [ ] Determine how the questions and answers are identified.
+- [ ] Compare the format used for questions and answers.
+- [ ] Analyze possible improvements to the process.
+- [ ] Determine the data storage format to be used, either through files or databases.
