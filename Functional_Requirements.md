@@ -1,6 +1,7 @@
 ## FUNCTIONAL REQUIREMENTS
 
-Since three different concerns are identified that the AI developer is presenting: Separating questions from answers, Categorization of questions and Ensure that the data used is “balanced”; the requirements will be broken down considering these issues.
+> [!IMPORTANT]
+> Since three different concerns are identified that the AI developer is presenting: Separating questions from answers, Categorization of questions and Ensure that the data > used is “balanced”; the requirements will be broken down considering these issues.
 
 ### 1. Separate questions and answers
 
@@ -24,3 +25,17 @@ Assume that the training model does not currently have a separate question and a
 - [ ] Compare the format used for questions and answers.
 - [ ] Analyze possible improvements to the process.
 - [ ] Determine the data storage format to be used, either through files or databases.
+
+**REQUIREMENT:**
+
+**REQ_01:** 
+
+**As** AI developer
+**I want** separate training questions from answers
+**To** facilitate the ability to evaluate and validate knowledge thus identifying areas for improvement.
+
+- **_Task1_01:_** Define a format for storing data organized in such a way that questions and answers are separated.
+
+- **_Task1_02:_** Establish a mechanism to link the questions with the correct answers.
+
+- **_Task1_03:_** Develop a graphical interface to manage the questions and answers
