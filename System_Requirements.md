@@ -61,3 +61,15 @@
 - **_Task5_01:_** Encrypt sensitive data.
   
 - **_Task5_02:_** Identify potential security vulnerabilities and make an action plan to follow.
+
+### 4. Availability
+
+**REQ_06:**
+
+**As** IA developer
+
+**I want** the system to be available most of the time
+
+**To** guarantee continuous access to training questions
+
+- **_Task6_01:_** Ensure availability through networks, applications or servers with redundancy.
