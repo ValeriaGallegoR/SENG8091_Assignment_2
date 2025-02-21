@@ -1,5 +1,7 @@
 # ASSIGNMENT #2
 
+### Project Information :books:
+
 #### Client:
 AI developer
 #### Project manager: 
@@ -13,4 +15,3 @@ AI developer who uses web scraping technique to generate their training data, pr
 - Separating questions from answers
 - Categorization of questions
 - Ensure that the data used is “balanced”.
-

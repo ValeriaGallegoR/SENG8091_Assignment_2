@@ -1,4 +1,4 @@
-## SYSTEM REQUIREMENTS
+## SYSTEM REQUIREMENTS :green_book:
 
 ### 1. Usability
 
