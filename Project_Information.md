@@ -8,3 +8,7 @@ Valeria Gallego - 9010151
 February 21, 2025
 #### Objective: 
 To clarify and convert the client's concerns into actions, by means of a detailed investigation of the client's problems. In this way, the project, its scope and constraints can be accurately oriented.
+#### Project Context: 
+AI developer who uses web scraping technique to generate their training data, presents the problems:
+- Categorized questions, with separate questions and answers.
+- Ensure that the data used is “balanced”.
